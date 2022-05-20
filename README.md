@@ -1,7 +1,7 @@
 ## Software developed to manage projects and their requirements using Java (Inteface: Java Swing) and MySQL
 
 
-### In Ensligh:
+### In English:
 
 This project was developed for the subjects of Computational Solutions Programming and Software Modeling as a final evaluation, with its Specifications defined by the teachers, which can be consulted in the especificacoes.pdf file. The program's screens can be seen in the "apresencao_projetoUnificado.pdf" file. Regarding UML (Unified Modeling Language): Diagram and specification of Use Cases, Class Diagram, Relationship Entity Model (MER from DB) and Entity Relationship Diagram (DER from DB) and other information can be found in the "documentacao_projetoUnificado.pdf" file. The code, on the other hand, is already in the "Code" folder.
 
